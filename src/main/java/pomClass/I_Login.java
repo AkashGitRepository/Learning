@@ -20,7 +20,6 @@ public class I_Login extends ConfedentialData{
 	@FindBy (xpath ="//input[@id='login-button']") 
 	 private WebElement login_button;
 	
-	
 	public I_Login (WebDriver driver123) 
 	{
 		PageFactory.initElements(driver123, this);
