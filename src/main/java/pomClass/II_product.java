@@ -29,4 +29,5 @@ public class II_product {
 	public void clickOnOrderBucket() {
 		orderBucket.click();
 	}
+	
 }

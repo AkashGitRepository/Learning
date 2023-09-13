@@ -48,6 +48,5 @@ public class I_Login extends ConfedentialData {
 
 	public void clickOnLoginButton() {
 		login_button.click();
-		System.out.println("clickOnLoginButton Method Run");
 	}
 }
